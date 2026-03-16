@@ -1,3 +1,5 @@
+//Umesh mali 7.5/10
+		
 package com.iiispl.entity; 
 
 public class Student implements Comparable<Student> 
